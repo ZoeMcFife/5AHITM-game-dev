@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/MainMenu/MainMenu.umap",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/MainMenu/MainMenuBlueprint.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/MainMenu/MainMenuGameMode.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Player/Player.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/MainMenu/RSI_ONLY__if_you_only_want_RSI_vehicles.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Player/HUD/PlayerHUD.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Player/HUD/PlayerHUDBlueprint.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4D/DYPRFA4TRHKASF024DNRRG.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Sound/Mem_PLF.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/FirstPerson/Maps/Fire.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Sound/fireplace-with-crackling-sounds-2-min-rk-178392.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Sound/SoundSettings.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/19/S9UAGWFC25JUOQLQ9L1HC6.uasset",
+				"C:/GitHub/5AHITM-game-dev/PLF_Vorbereitung/PLF_Vorbereitung/Content/Player/HUD/PlayerHudComponent.uasset"
+			]
+		}
+	]
+}
